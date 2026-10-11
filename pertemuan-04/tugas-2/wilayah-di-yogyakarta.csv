@@ -1,0 +1,2 @@
+name,description,wkt_geometry,latitude_centroid,longitude_centroid,luas_km2,jenis_wilayah,provinsi
+DIY Yogyakarta,Daerah Istimewa Yogyakarta - 4 Kabupaten + Kota Yogyakarta,POLYGON ((110.0547 -7.4996, 110.8023 -7.4996, 110.8023 -8.0106, 110.0547 -8.0106, 110.0547 -7.4996)),-7.7956,110.3695,320.0,Daerah Istimewa,DIY Yogyakarta

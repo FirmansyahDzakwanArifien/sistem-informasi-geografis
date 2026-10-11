@@ -1,0 +1,2 @@
+name,description,wkt_geometry,latitude_centroid,longitude_centroid,luas_km2,jenis_wilayah,provinsi
+Kota Depok,Kota Administrasi Depok - Jawa Barat (11 Kecamatan),POLYGON ((106.7232 -6.3341, 106.8862 -6.3341, 106.8862 -6.4712, 106.7232 -6.4712, 106.7232 -6.3341)),-6.4025,106.7942,200.0,Kota Administrasi,Jawa Barat

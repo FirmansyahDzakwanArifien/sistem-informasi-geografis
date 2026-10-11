@@ -1,0 +1,2 @@
+name,description,wkt_geometry,latitude_centroid,longitude_centroid,luas_km2,jenis_wilayah,provinsi
+DKI Jakarta,Provinsi DKI Jakarta - 5 Kotamadya + 1 Kabupaten Kepulauan Seribu,POLYGON ((106.6893 -6.0858, 106.9727 -6.0858, 106.9727 -6.3725, 106.6893 -6.3725, 106.6893 -6.0858)),-6.2088,106.8456,664.0,Daerah Khusus Ibu Kota,DKI Jakarta
