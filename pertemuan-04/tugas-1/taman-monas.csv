@@ -1,0 +1,2 @@
+name,description,wkt_geometry,latitude_centroid,longitude_centroid,area_ha,kecamatan,kota,provinsi
+Taman Monas,Ruang Terbuka Hijau - Monumen Nasional Jakarta,POLYGON ((106.8232 -6.1786, 106.8310 -6.1786, 106.8310 -6.1724, 106.8232 -6.1724, 106.8232 -6.1786)),-6.175402,106.827183,73.0,Gambir,Jakarta Pusat,DKI Jakarta

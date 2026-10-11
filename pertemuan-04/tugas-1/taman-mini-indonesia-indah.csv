@@ -1,0 +1,2 @@
+name,description,wkt_geometry,latitude_centroid,longitude_centroid,area_ha,kecamatan,kota,provinsi
+Taman Mini Indonesia Indah,Ruang Terbuka Hijau - Taman Mini Indonesia Indah (TMII),POLYGON ((106.8905 -6.3065, 106.9000 -6.3065, 106.9000 -6.2984, 106.8905 -6.2984, 106.8905 -6.3065)),-6.302448,106.895147,150.0,Cipayung,Jakarta Timur,DKI Jakarta

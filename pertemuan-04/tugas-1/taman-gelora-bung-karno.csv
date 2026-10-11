@@ -1,0 +1,2 @@
+name,description,wkt_geometry,latitude_centroid,longitude_centroid,area_ha,kecamatan,kota,provinsi
+Gelora Bung Karno,Ruang Terbuka Hijau - Kompleks Olahraga GBK,POLYGON ((106.7985 -6.2213, 106.8055 -6.2213, 106.8055 -6.2148, 106.7985 -6.2148, 106.7985 -6.2213)),-6.218277,106.801757,279.0,Tanah Abang,Jakarta Pusat,DKI Jakarta
