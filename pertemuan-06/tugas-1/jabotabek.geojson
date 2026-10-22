@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "Jakarta",
+                "penduduk": 10684.95,
+                "luas_km2": 660.98,
+                "tahun": 2024
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.826732,
+                    -6.174346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "Bogor",
+                "penduduk": 1078.35,
+                "luas_km2": 111.39,
+                "tahun": 2024
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.796615,
+                    -6.594482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "Kota Tangerang",
+                "penduduk": 1927.82,
+                "luas_km2": 178.35,
+                "tahun": 2024
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.631527,
+                    -6.177673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "Tangerang Selatan",
+                "penduduk": 1429.53,
+                "luas_km2": 164.86,
+                "tahun": 2024
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.717417,
+                    -6.28856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "Depok",
+                "penduduk": 2163.64,
+                "luas_km2": 199.91,
+                "tahun": 2024
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.82227,
+                    -6.39388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "Bekasi",
+                "penduduk": 2644.06,
+                "luas_km2": 213.12,
+                "tahun": 2024
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.99182,
+                    -6.237555
+                ]
+            }
+        }
+    ]
+}

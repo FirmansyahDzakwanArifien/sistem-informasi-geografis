@@ -12,9 +12,12 @@ Kumpulan tugas mata kuliah Sistem Informasi Geografis (SIG), disusun per pertemu
 ├── pertemuan-04/
 │   ├── tugas-1/   # Poligon taman kota di Jakarta (CSV/WKT & KMZ)
 │   └── tugas-2/   # Poligon wilayah administratif (CSV/WKT & KMZ)
-└── pertemuan-05/
-    ├── tugas-1/   # Project QGIS: XYZ Tiles, import KML DKI Jakarta, ekspor Shapefile
-    └── tugas-2/   # Project QGIS mandiri: polygon DIY & Kota Depok (KML & Shapefile)
+├── pertemuan-05/
+│   ├── tugas-1/   # Project QGIS: XYZ Tiles, import KML DKI Jakarta, ekspor Shapefile
+│   └── tugas-2/   # Project QGIS mandiri: polygon DIY & Kota Depok (KML & Shapefile)
+└── pertemuan-06/
+    ├── tugas-1/   # Titik GeoJSON Jabodetabek (geojson.io), Shapefile + field GDP
+    └── tugas-2/   # Polygon GeoJSON provinsi Pulau Jawa + atribut non-spasial
 ```
 
 ## Daftar Tugas
@@ -27,3 +30,5 @@ Kumpulan tugas mata kuliah Sistem Informasi Geografis (SIG), disusun per pertemu
 | 4 | [Tugas 2](pertemuan-04/tugas-2) | Data poligon wilayah administratif (DKI Jakarta, Depok, DIY) | Selesai |
 | 5 | [Tugas 1](pertemuan-05/tugas-1) | Project QGIS: sumber peta XYZ Tiles dan import polygon KML DKI Jakarta | Selesai |
 | 5 | [Tugas 2](pertemuan-05/tugas-2) | Project QGIS mandiri: polygon DI Yogyakarta dan Kota Depok | Selesai |
+| 6 | [Tugas 1](pertemuan-06/tugas-1) | Dataset titik GeoJSON Jabodetabek dan field GDP di QGIS | Selesai |
+| 6 | [Tugas 2](pertemuan-06/tugas-2) | Polygon GeoJSON provinsi Pulau Jawa dengan data non-spasial | Selesai |
